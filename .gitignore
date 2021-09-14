@@ -1,6 +1,6 @@
 obj/*.o
 obj/*.lst
 hello-debug.lst
-hello-foenix.lst
+hello-Foenix.lst
 hello.elf
 hello.pgz
